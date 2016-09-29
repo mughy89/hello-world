@@ -1,2 +1,2 @@
 # hello-world
-here to learn :) 
+here to learn : html, css, php, javaScript 
